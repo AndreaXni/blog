@@ -1,4 +1,8 @@
-== README - updated
+applicazione di prova per corso ruby on rails
+
+andrea
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
